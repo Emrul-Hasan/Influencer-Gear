@@ -109,6 +109,7 @@ button {
 }
 
 .header .image {
+   
     width: 50%;
     display: flex;
     justify-content: center;
@@ -117,12 +118,15 @@ button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 80%;
+    
 }
 
 .header .image img {
-    width: 80%;
-    height: 80%;
+    width: 70%;
+    height: 70%;
     transition: transform .5s;
+    
+    
 }
 
 .header .image img:hover {
@@ -172,6 +176,7 @@ button {
 .brand-area .logo {
     display: flex;
     margin: 30px 0;
+   
 }
 
 .brand-area img {
